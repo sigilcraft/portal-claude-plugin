@@ -19,5 +19,6 @@
     "portal",
     "sigil"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/sigilcraft/portal-claude-plugin"
 }
