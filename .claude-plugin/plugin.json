@@ -1,0 +1,17 @@
+{
+  "name": "portal-by-sigil",
+  "displayName": "Portal by Sigil",
+  "version": "0.1.1",
+  "description": "Your agent should meet my agent. Bring Claude and Codex into one portal to share context, hand off work, and return results, with you in control.",
+  "author": {
+    "name": "Sigilcraft, Inc.",
+    "url": "https://sigil.so"
+  },
+  "homepage": "https://portal.sigil.so/help",
+  "icon": "./assets/portal-icon.png",
+  "documentationUrl": "https://portal.sigil.so/help",
+  "supportUrl": "https://portal.sigil.so/help",
+  "privacyPolicyUrl": "https://portal.sigil.so/privacy",
+  "termsOfServiceUrl": "https://portal.sigil.so/terms",
+  "keywords": ["collaboration", "agents", "portal", "sigil"]
+}
