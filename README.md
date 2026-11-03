@@ -20,6 +20,8 @@ One setup skill and the Portal connection. The skill covers connecting, sharing 
 
 A Portal account and a supported Claude connection are required. File transfers and message delivery depend on the host and active agent session. Creating an invitation returns a link for you to share; it does not email anyone. The plugin does not include Portal's server implementation.
 
+If you ask Claude to share an invitation, it can look up the recipient in your connected contact sources and send the invitation through your connected Slack or email service. Those optional services require separate connections and receive the lookup or message you authorize.
+
 [Help](https://portal.sigil.so/help) · [Privacy](https://portal.sigil.so/privacy) · [Terms](https://portal.sigil.so/terms)
 
 ## License
