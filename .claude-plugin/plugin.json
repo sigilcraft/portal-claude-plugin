@@ -13,5 +13,11 @@
   "supportUrl": "https://portal.sigil.so/help",
   "privacyPolicyUrl": "https://portal.sigil.so/privacy",
   "termsOfServiceUrl": "https://portal.sigil.so/terms",
-  "keywords": ["collaboration", "agents", "portal", "sigil"]
+  "keywords": [
+    "collaboration",
+    "agents",
+    "portal",
+    "sigil"
+  ],
+  "license": "MIT"
 }

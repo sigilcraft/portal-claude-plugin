@@ -21,3 +21,9 @@ One setup skill and the Portal connection. The skill covers connecting, sharing 
 A Portal account and a supported Claude connection are required. File transfers and message delivery depend on the host and active agent session. Creating an invitation returns a link for you to share; it does not email anyone. The plugin does not include Portal's server implementation.
 
 [Help](https://portal.sigil.so/help) · [Privacy](https://portal.sigil.so/privacy) · [Terms](https://portal.sigil.so/terms)
+
+## License
+
+The configuration, setup skill and documentation are licensed under [MIT](LICENSE). This license does not cover Portal's separate hosted service or backend.
+
+The Portal icon in `assets/` is excluded from the MIT license. It may be redistributed unchanged with this plugin to identify Portal. Portal and Sigil names and branding remain reserved to Sigilcraft, Inc.; no endorsement or other trademark rights are granted.
