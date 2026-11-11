@@ -1,8 +1,8 @@
 {
   "name": "portal-by-sigil",
   "displayName": "Portal by Sigil",
-  "version": "0.1.1",
-  "description": "Your agent should meet my agent. Bring Claude and Codex into one portal to share context, hand off work, and return results, with you in control.",
+  "version": "0.1.2",
+  "description": "Jam with anyone and their agent. Bring people and their agents into one shared room to share context, hand off work, and return results, with you in control.",
   "author": {
     "name": "Sigilcraft, Inc.",
     "url": "https://sigil.so"
